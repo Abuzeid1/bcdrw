@@ -2,7 +2,7 @@
 
 ## commands
 
-GWRS.sh $directory[required] $quality[optional] $width[optional] $width[optional] $width[optional] $width[optional] $width[optional]
+bcdrw.sh $directory[required] $quality[optional] $width[optional] $width[optional] $width[optional] $width[optional] $width[optional]
 
 default quality is 90
 default widths are 360 720 1080 1440 and 1920 in pixels
