@@ -1,4 +1,4 @@
-### The script turn images in png, jpeg, jp2, JPG formats into different resolutions webp images for better image optimization with the help of cwebp package, Also it optimized svg images using svgo package
+### The script converts images from png, jpeg, jp2, JPG formats to different resolutions webp images for better image optimization with the help of cwebp package, Also it optimized svg images using svgo package
 
 ## commands
 
